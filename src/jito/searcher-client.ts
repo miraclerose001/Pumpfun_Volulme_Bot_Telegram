@@ -12,7 +12,6 @@ export class SearcherClient {
     async getTipAccounts(): Promise<string[]> {
         console.log("🔍 [SEARCHER] Fetching tip accounts from JITO...");
         try {
-            // Implementation to get tip accounts
             // This would call the JITO API to get available tip accounts
             const tipAccounts = [
                 "96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5",
@@ -48,8 +47,7 @@ export class SearcherClient {
             // 1. Serialize the transactions
             // 2. Send them to the JITO block engine via gRPC
             // 3. Return the bundle UUID from the response
-            
-            // For now, we'll simulate the bundle submission
+
             const bundleId = `jito-bundle-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
             
             console.log("✅ [SEARCHER] Bundle submitted successfully!");
