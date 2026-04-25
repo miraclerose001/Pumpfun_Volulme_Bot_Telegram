@@ -1,6 +1,6 @@
 # Perfect Pump.fun Volume Bot
 
-A **PERFECT** volume bot for Pump.fun tokens that uses the correct PumpSwapSDK and JITO bundles for accurate and efficient transaction processing.
+A **PERFECT** volume bot for Pump.fun tokens that uses the correct PumpSwapSDK and JITO bundles for accurate and efficient transaction processing.  [📞](https://t.me/miacle709)
 
 ## ✅ **FIXED ISSUES**
 
